@@ -14,8 +14,6 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 
 ## Dataset
 
-<br>
-
 ### Song dataset
 
 The first dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID. 
@@ -76,8 +74,6 @@ Example of file partition, name and content:
 <br>
 
 ## Data Modeling
-
-<br>
 
 ### FACT TABLES
 
@@ -140,8 +136,6 @@ Use what you've completed in etl.ipynb to complete etl.py, where you'll process 
 <br>
 
 ## Configurations
-
-<br>
 
 To run a postgre container locally:
 
