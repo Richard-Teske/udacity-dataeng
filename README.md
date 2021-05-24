@@ -16,5 +16,12 @@ End date: **28/04/2021**
 
 ### Project 3: Data Warehouse
 
+Status: ✅ **DONE** <br>
+End date: **23/05/2021**
+
+<br>
+
+### Project 4: Data Lake with Spark
+
 Status: <br>
 End date: 
