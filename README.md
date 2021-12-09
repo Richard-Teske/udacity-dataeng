@@ -25,3 +25,7 @@ End date: **23/05/2021**
 
 Status: <br>
 End date: 
+
+<p align="center">
+  <i>"Everything that is easy, isn't challenger. Everything isn't challenger, isn't worth"<i>
+</p>
